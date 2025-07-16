@@ -28,7 +28,7 @@ Este repositório contém código e notebooks para a análise de redes neurais c
    ```bash
    git clone https://github.com/seu-usuario/Forensic_Age_Prediction_CNNs.git
 
-2.Instale as Dependências:
+2. Instale as Dependências:
 Certifique-se de ter o Python 3.x instalado e as bibliotecas necessárias. Você pode instalar as dependências com o seguinte comando:
 
 bash
